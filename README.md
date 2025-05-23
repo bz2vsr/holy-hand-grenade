@@ -14,7 +14,7 @@ The name is an ode to a similiar script called "Killer Bunny" (a [Monty Python r
 *"First shalt thou take out the Holy Pin. Then shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, neither count thou two, excepting that thou then proceed to three."* 🐰💣
 
 <div align="center">
-<img src="">
+<img src="https://github.com/user-attachments/assets/1a6d2219-bd9d-4e6e-a05c-4e5b8d58c8a7">
 </div>
 
 ## ✨ Features
